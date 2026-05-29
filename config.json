@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingralidate",
+        "uuid": 251674,
+        "checksum": "gu92c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
